@@ -1,2 +1,3 @@
-# transfer-learning-python-notebooks
-Transfer learning Jupyter Notebooks
+# Transfer learning Jupyter notebooks
+
+Transfer learning Jupyter notebooks on different problems.
